@@ -1,6 +1,6 @@
 'use strict';
 
-var token = "<YOUR TOKEN>";
+var token = "746a8d36acbd29a4f143828be6b7d4f8";
 
 angular.module('analytics.mixpanel')
 
